@@ -1,2 +1,2 @@
 # BARamori
-Takamori Robotics Main Git Hub
+BAR Takamori Robotics Main Git Hub
